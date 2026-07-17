@@ -39,10 +39,9 @@ Aplicação full stack criada para gerenciar e organizar produtos afiliados, cen
 
 ---
 
-### 📊 Estatísticas
+### 📊 Tecnologias mais utilizadas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reginaldo-jr-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-jr-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-jr-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 ---
 
