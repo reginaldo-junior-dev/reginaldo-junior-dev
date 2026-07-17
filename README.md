@@ -41,7 +41,7 @@ Aplicação full stack criada para gerenciar e organizar produtos afiliados, cen
 
 ### 📊 Tecnologias mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldo-junior-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reginaldo-junior-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br)
 
 ---
 
