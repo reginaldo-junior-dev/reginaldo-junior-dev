@@ -8,16 +8,6 @@ Atuo no desenvolvimento de aplicações full stack, com foco em Java, Spring Boo
 
 ---
 
-### 🚀 Projeto em destaque
-
-### 🛍️ Seleção de Achados
-Aplicação full stack criada para gerenciar e organizar produtos afiliados, centralizando categorias, imagens e links de divulgação em um catálogo próprio de ofertas e achados da internet.
-
-🔗 https://www.selecaodeachados.com
-📂 https://github.com/reginaldo-jr-dev/selecao-de-achados
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
